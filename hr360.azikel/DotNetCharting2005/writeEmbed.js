@@ -1,0 +1,1 @@
+function WriteEmbed(stringValue){document.write(stringValue);}
